@@ -1,0 +1,77 @@
+.react-toolbar {
+    height: 40px;
+    background-color: #d9d9d9;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    margin: 10px;
+    box-shadow: 2px 2px 1px grey;
+}
+
+.react-toolbar-group-left {
+    float:left;
+    height: 40px;
+}
+
+.react-toolbar-group-right {
+    float:right;
+    height: 40px;
+}
+
+.button-with-label {
+    height: 40px;
+    display: inline-block;
+}
+
+.button-with-label:hover{
+    background-color: #e6e6e6;
+}
+
+.btn-img {
+    height: 40px;
+    padding: 10px;
+    box-sizing: border-box; 
+    display: inline-block;
+}
+
+.btn-empty {
+    height: 40px;
+    display: inline-block;
+    width: 0px;
+}
+
+.btn-img:hover{
+    background-color: #e6e6e6;
+}
+
+.btn-icon {
+    height: 20px;
+    float: right;
+}
+
+.btn-label {
+    height: 40px;
+    float: right;
+    font-size: 15px;
+    padding: 5px;
+    line-height: 28px;
+}
+
+.more-btn {
+    height: 40px;
+}
+
+.list-dropdown-menu {
+    position: absolute;
+    background-color: yellow;
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.list-dropdown-item {
+}
+
+.list-dropdown-item:hover {
+    background-color: #e6e6e6;
+}
